@@ -3,7 +3,7 @@
 🌟 **Tech Enthusiast | Developer | Designer**  
 💻 Passionate about Python, web development, and exploring JavaScript frameworks.  
 🧪 I dabble in Python, Lua, C++, C#, NextJS, ReactJS, and React Native—and I'm currently learning C++.  
-🎮 I enjoy working on game development with Godot, bringing creativity to life through code.  
+🎮 I enjoy working on App development with React Native bringing what i have in mind to reality  
 🎨 I have a keen interest in design, using tools like Photoshop and Illustrator to craft stunning visuals.  
 🚀 Always learning, building, and sharing my journey in tech!
 
