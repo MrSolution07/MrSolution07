@@ -16,7 +16,8 @@
 - **Other Interests**: Node.js, and web development
 
 ---
-Do not forget One Line A Day To Keep The Doctor Awake
+Do not forget:
+One Line A Day To Keep The Doctor Awake
 
 ### 📊 **GitHub Stats**:
 ![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSolution07&show_icons=true&theme=radical)
