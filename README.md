@@ -19,11 +19,6 @@
 Do not forget:
 One Line A Day To Keep The Doctor Awake
 
-### 📊 **GitHub Stats**:
-![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSolution07&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSolution07&layout=compact&theme=radical)
-
 ---
 
 ### 📫 **How to Reach Me**:
