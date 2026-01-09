@@ -27,5 +27,5 @@ One Line A Day To Keep The Doctor Awake
 ---
 
 ### 📫 **How to Reach Me**:
-- **private**: [christianhussein@icloud.com](mailto:christianhussein@icloud.com)  
-- **MrSolulu**: [christian@solutionincorporate.com](mailto:christian@solutionincorporate.com)  
+  **private**: [christianhussein@icloud.com](mailto:christianhussein@icloud.com)  
+  **MrSolulu**: [christian@solutionincorporate.com](mailto:christian@solutionincorporate.com)  
