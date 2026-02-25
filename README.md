@@ -2,10 +2,10 @@
 
 🌟 **Tech Enthusiast | Developer | Designer**  
 💻 Passionate about Python, web development, and exploring JavaScript frameworks.  
-🧪 I dabble in Python, Lua (still learning but manageable), C#, NextJS, ReactJS, and React Native and I'm currently learning Swift.  
+🧪 I dabble in Python, Lua (still learning but manageable), C#, NextJS, ReactJS, and React Native and I'm currently learning how to use Cursor.  
 🎮 I enjoy working on App development with React Native bringing what i have in mind to reality  
 🎨 I have a keen interest in design, using tools like Photoshop and Illustrator to craft stunning visuals.  
-🚀 Always learning, building, and sharing my journey in tech!
+🚀 Always learning, building and sharing my journey in tech!
 
 ---
 
@@ -13,11 +13,11 @@
 - **Languages**: Python, C#, C++, TypeScript
 - **Frameworks**: ReactJS, React Native, NextJS
 - **Design Tools**: Photoshop, Illustrator
-- **Other Interests**: Node.js, and web development
+- **Other Interests**: Node.js, web development,AI, Rubix Cubes
 
 ---
 Do not forget:
-One Line A Day To Keep The Doctor Awake
+**One Line A Day To Keep The Doctor Awake**
 
 ---
 
