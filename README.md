@@ -1,4 +1,4 @@
-# Hi there, I'm Christian  👋
+# Hello World ! I'm Christian and yes I'am a Christian 
 
 🌟 **Tech Enthusiast | Developer | Designer**  
 💻 Passionate about Python, web development, and exploring JavaScript frameworks.  
