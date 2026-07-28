@@ -21,6 +21,8 @@ Do not forget:
 
 ---
 
+"**I don't like vibeCoders...**" Read on X
+
 ### 📫 **How to Reach Me**:
   **private**: [christianhussein@icloud.com](mailto:christianhussein@icloud.com)  
   **MrSolulu**: [christian@solutionincorporate.com](mailto:christian@solutionincorporate.com)  
